@@ -1,7 +1,7 @@
 # Statistics-for-Data-Science-
 
 **OVERVIEW**
-Here, I have presented the jupyter notebook solutions (that I have done along with my group members) for Final Project Questions for the course  Statistics for Data Science at ** Freie University Berlin ** with Professor Dirk Ostwald. 
+Here, I have presented the jupyter notebook solutions (that I have done along with my group members) for Final Project Questions for the course  Statistics for Data Science at **Freie University Berlin(FUB)** with Professor Dirk Ostwald. 
 
 [Lectures of Professor Dirk Ostwald](https://www.youtube.com/playlist?list=PLhzkDK3o0fcD_OAgZb-XrP6I6Xko8G_uE)
 
@@ -37,5 +37,5 @@ Here, I have presented the jupyter notebook solutions (that I have done along wi
 [14.Numerical methods](https://simr.notion.site/14-Numerical-methods-ea88254e21234456a5bd971c6cfe41ed)
 
 
-** I have presented the solutions to the project questions in the Jupyter notebook. **
+**I have presented the solutions to the project questions in the Jupyter notebook.**
 
