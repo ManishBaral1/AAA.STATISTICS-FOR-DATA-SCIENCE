@@ -37,5 +37,5 @@ Here, I have presented the jupyter notebook solutions (that I have done along wi
 [14.Numerical methods](https://simr.notion.site/14-Numerical-methods-ea88254e21234456a5bd971c6cfe41ed)
 
 
-** I have presented the solutions to the project questions in the
+** I have presented the solutions to the project questions in the Jupyter notebook. **
 
