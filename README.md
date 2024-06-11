@@ -1,7 +1,7 @@
 # Statistics-for-Data-Science-
 
 **OVERVIEW**
-Here, I have presented the jupyter notebook solutions (that I have done along with my group members) for Final Project Questions for the course  Statistics for Data Science at **Freie University Berlin(FUB)** with Professor Dirk Ostwald. 
+Here, I have presented the jupyter notebook solutions (that I have done along with my group members) for Final Project Questions for the course  Statistics for Data Science at **Freie University Berlin(FUB)** with Professor **Dirk Ostwald**. 
 
 [Lectures of Professor Dirk Ostwald](https://www.youtube.com/playlist?list=PLhzkDK3o0fcD_OAgZb-XrP6I6Xko8G_uE)
 
